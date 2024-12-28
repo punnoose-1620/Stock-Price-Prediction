@@ -2,6 +2,8 @@
 
 This project predicts future stock prices using historical data and an LSTM (Long Short-Term Memory) neural network. The project involves data collection, preprocessing, model building, training, and evaluation to assess prediction accuracy.
 
+![Generated Display Image](./stock-price-prediction_bg.webp)
+
 ## Table of Contents
 
 - Project Overview
